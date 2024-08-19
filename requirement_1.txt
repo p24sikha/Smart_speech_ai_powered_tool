@@ -1,0 +1,1 @@
+pip install dash dash-bootstrap-components plotly speech_recognition numpy opencv-python transformers
