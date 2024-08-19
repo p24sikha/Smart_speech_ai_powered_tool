@@ -25,7 +25,7 @@ This project provides a comprehensive data analysis tool to assist SmartMart in 
 
 ## Visualizations
 
-![Dashboard Screenshot](Smart_speech_ai_powered_tool.JPG)
+![Dashboard Screenshot](Smart_speech_ai_powered_tool_jpg.jpeg)
 
 ## Requirements
 
